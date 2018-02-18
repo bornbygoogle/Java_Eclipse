@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body
+{
+	margin: 0 0 0 0;
+	width: 100%;
+}
+
+#panel-gauche
+{
+	float: left;
+	width: 35%;
+	
+}
+
+#panel-droite
+{
+	float: right;
+	width: 65%
+}
